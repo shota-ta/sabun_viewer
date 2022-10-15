@@ -1,0 +1,11 @@
+# dev
+flake8
+mypy
+black
+isort
+pep8-naming
+pyclean
+ipykernel
+
+# exe
+PySide2
