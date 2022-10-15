@@ -1,5 +1,5 @@
 {
-    "terminal.integrated.env.linux": {
+    "terminal.integrated.env.windows": {
         "PSExecutionPolicyPreference": "RemoteSigned"
     },
     "python.linting.enabled": true,
